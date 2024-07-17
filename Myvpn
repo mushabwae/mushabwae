@@ -1,6 +1,6 @@
 proxies:
   - name: mushabwae
-    server: inside165.udemy.com
+    server: 104.17.2.81
     port: 443
     type: vmess
     uuid: d5dbf420-4220-4f49-b0f3-4844f37daec2
